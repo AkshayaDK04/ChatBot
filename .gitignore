@@ -1,0 +1,14 @@
+# Virtual environment
+venv_310/
+.env
+
+chatbot/
+.env
+
+# Python bytecode
+*.pyc
+_pycache_/
+
+# IDE/editor settings
+.vscode/
+.idea/
