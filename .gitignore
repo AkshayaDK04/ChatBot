@@ -1,9 +1,10 @@
 # Virtual environment
+chatbot/
 venv_310/
 .env
 
-chatbot/
-.env
+
+
 
 # Python bytecode
 *.pyc
